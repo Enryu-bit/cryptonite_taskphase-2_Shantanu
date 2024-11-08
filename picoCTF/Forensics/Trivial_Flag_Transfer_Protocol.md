@@ -107,7 +107,8 @@ options for the info command:
 To embed emb.txt in cvr.jpg: steghide embed -cf cvr.jpg -ef emb.txt
 To extract embedded data from stg.jpg: steghide extract -sf stg.jpg
 ```
-Then it gave me a file named flag.txt
+Then it gave me a file named flag.txt.<br>
+I used DUEDILIGENCE as passphrase as it was in the hint above.<br>
 ```bash
 [user@parrot]─[~/Shared/hi]
 └──╼ $steghide extract -sf ./picture3.bmp -p DUEDILIGENCE
