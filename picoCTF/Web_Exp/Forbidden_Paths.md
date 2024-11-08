@@ -10,23 +10,8 @@ so i used `../../../../flag.txt` to get and guess what it worked.<br>
 i used `..` four times because tha path had 4 directories in and in the last one `flag.txt` was stored.<br>
 
 
-<img width="1037" alt="Screenshot 2024-11-08 at 4 16 10 PM" src="https://github.com/user-attachments/assets/224f6b73-91a4-43b5-a2a5-a34efe733126">
+<img width="1037" alt="Screenshot 2024-11-08 at 4 16 10 PM" src="https://github.com/user-attachments/assets/224f6b73-91a4-43b5-a2a5-a34efe733126"> <br>
+Didn't learn anything new but got a new perspective to bypass absolute path filter by `..`
+<br>
+One incorrect method was that first i put the absoulute path as i didn't pay attention to the absolute filter line.<br>
 
-
-What you learned through solving this challenge:
-
-1. first concept
-2. second concept
-3. etc.
-
-Other incorrect methods you tried:
-
-- a
-- b
-- c
-
-References
-
-- reference 1
-- reference 2
-- etc.
