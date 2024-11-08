@@ -112,15 +112,16 @@ Then it gave me a file named flag.txt
 [user@parrot]─[~/Shared/hi]
 └──╼ $steghide extract -sf ./picture3.bmp -p DUEDILIGENCE
 wrote extracted data to "flag.txt".
-752674326.316072@[384951462422541] (UTM):* SLSGetNextEventRecordInternal: loc (1193.2, 532.9) conn 0x111007 MouseMoved win 0x5435 (click 1)What you learned through solving this challenge:
 ```
-
+<br>
+<img width="973" alt="Screenshot 2024-11-08 at 3 54 09 PM" src="https://github.com/user-attachments/assets/22d132be-e292-4cb1-8f87-859425b0b262">
 1. first concep2. second concept
 3. etc.
 
 Other incorrect methods you tried:
 
 - a
+
 - b
 - c
 
