@@ -5,6 +5,7 @@
 Got to know about a highly useful tool named `gdb` which is used to debug programs.<br>
 Learnt basic intro on youtube and then proceeded with the challenge.<br>
 basically i had to disassemble the main function using gdb and then the value of the flag would be the value inside the eax register in gdb.<br>
+Disassembly means that when the compiler takes high level code and convert it in machine code(binary) it is not readable by us but by disassembling it and making it into readable assembly code lets us see somewhat on whats actually happening.<br>
 Did the same but my system was not showing me the registers i dont know why but still i tried converting every hexadec value in int and trying the flag and got it finally.<br>
 used python to get its int form.<br>
 ```bash
