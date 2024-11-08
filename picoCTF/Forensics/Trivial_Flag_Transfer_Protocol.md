@@ -116,18 +116,13 @@ wrote extracted data to "flag.txt".
 ```
 <br>
 <img width="973" alt="Screenshot 2024-11-08 at 3 54 09 PM" src="https://github.com/user-attachments/assets/22d132be-e292-4cb1-8f87-859425b0b262">
-1. first concep2. second concept
-3. etc.
-
-Other incorrect methods you tried:
-
-- a
-
-- b
-- c
+<br>
+In this i learned about rot13, what is wireshark and how it can be used to pull out data from network packets.<br>
+What is steghide and how it can be used to embed/store data on images and sound files.<br>
 
 References
-
-- reference 1
-- reference 2
-- etc.
+<br>
+[cipher](https://www.dcode.fr/) <br>
+[wireshark](https://www.wireshark.org/docs/wsug_html_chunked/ChapterIntroduction.html) <br>
+[steghide](https://medium.com/the-kickstarter/steganography-on-kali-using-steghide-7dfd3293f3fa) <br>
+[install .deb](https://phoenixnap.com/kb/install-deb-files-ubuntu)<br>
